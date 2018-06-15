@@ -18,6 +18,7 @@ A solo project for Epicodus **06.16.18**
   * Improve my portfolio website, maybe build it into a basic React App
 
 ## Work
+  * (8:30am) - Craft cover-letter
 
 ## Reflection & Next Steps
 
