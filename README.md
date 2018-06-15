@@ -24,7 +24,8 @@ A solo project for Epicodus **06.16.18**
   * (11:00am) - Start FreeCodeCamp challenges
   * (1:04pm) - Completing Challenges
   * (3:01pm) - [Watched this video about interview](https://www.youtube.com/watch?v=S6lwJ6Rixnc)
-  *
+  * (3:13pm) - [Another Junior Dev interview video](https://www.youtube.com/watch?v=nX0ajFKB2E0)
+  * (3:42pm) - [First week as a junior dev](https://www.youtube.com/watch?v=E4LohbB1yUs)
 
 ## Reflection & Next Steps
 
