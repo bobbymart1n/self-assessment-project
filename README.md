@@ -23,6 +23,8 @@ A solo project for Epicodus **06.16.18**
   * (10:58am) - Submitted cover-letter to Epicenter
   * (11:00am) - Start FreeCodeCamp challenges
   * (1:04pm) - Completing Challenges
+  * (3:01pm) - [Watched this video about interview](https://www.youtube.com/watch?v=S6lwJ6Rixnc)
+  *
 
 ## Reflection & Next Steps
 
