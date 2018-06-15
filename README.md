@@ -21,6 +21,7 @@ A solo project for Epicodus **06.16.18**
   * (8:30am) - Craft cover-letter
   * (10:38am) - Editing cover-letter
   * (10:58am) - Submitted cover-letter to Epicenter
+  * (11:00am) - Start FreeCodeCamp challenges
 
 ## Reflection & Next Steps
 
