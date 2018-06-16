@@ -26,8 +26,12 @@ A solo project for Epicodus **06.16.18**
   * (3:01pm) - [Watched this video about interview](https://www.youtube.com/watch?v=S6lwJ6Rixnc)
   * (3:13pm) - [Another Junior Dev interview video](https://www.youtube.com/watch?v=nX0ajFKB2E0)
   * (3:42pm) - [First week as a junior dev](https://www.youtube.com/watch?v=E4LohbB1yUs)
+  * (4:00pm) - Working on more algorithm challenges
 
 ## Reflection & Next Steps
+I feel like I've learned that I haven't had much experience manipulating arrays of objects. I definitely need to focus more on that. As well as learning about HTTP terminology and how that functions. My imposter syndrome starts to hit a little hard when I keep going through these coding challenges. I guess I just wish I had a little better of an understanding of whats going to be expected of me.
+
+I don't feel like I've made a lot of forward progress today. I tend to get stuck on one problem for quite a while, and hack my way through it. My next steps are going to be reading more documentation on object manipulation. Especially when comparing key value pairs. I guess I just need to feel more comfortable with JavaScript principles, and more advanced JS topics as well. I know about higher order functions, but using them still proves difficult, and I can't seem to gauge how much of that I need to know at a junior level.
 
 This repository uses the _MIT License_  
 
